@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-22 19:51 UTC · Public site update
+
+<!-- loona-update:ff6009f3-ce32-45f8-bbe8-1fdf4c91e907 -->
+
+- **Live world and camera controls.** Changes touch camera and location labels, live scene state in `world-view.js` (40 lines added, 13 removed or replaced).
+
 ## 2026-11-22 19:26 UTC · Public site update
 
 <!-- loona-update:4e6f9d5c-ad14-4210-9bfa-7ae51ce7b484 -->
