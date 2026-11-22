@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-22 19:13 UTC · Public site update
+
+<!-- loona-update:b83a24c6-c811-471e-a441-830698ac9171 -->
+
+- **Character renderer.** Changes touch character poses in `rig3d.js` (47 lines added, 20 removed or replaced).
+- **Shipped 3D viewer.** The browser bundle used by the live scene changed in `assets/rig3d.bundle.js`.
+
 ## 2026-11-22 18:45 UTC · Public site update
 
 <!-- loona-update:bcb167c8-1238-471d-8656-3f8a17f7253e -->
