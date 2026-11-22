@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-22 19:15 UTC · Public site update
+
+<!-- loona-update:bbad8d06-5a96-41d7-bb80-3cfac35fc036 -->
+
+- **Character renderer.** Changes touch character poses in `rig3d.js` (20 lines added, 47 removed or replaced).
+
 ## 2026-11-22 19:13 UTC · Public site update
 
 <!-- loona-update:b83a24c6-c811-471e-a441-830698ac9171 -->
