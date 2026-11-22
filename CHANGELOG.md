@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-22 21:34 UTC · Public site update
+
+<!-- loona-update:19c05795-e7f5-4328-9322-f707f97e7f9c -->
+
+- **Live world and camera controls.** Changes touch live scene state in `world-view.js` (14 lines added, 3 removed or replaced).
+- **3D environments.** Changes touch scene animation and framing in `world-stage.js` (10 lines added, 9 removed or replaced).
+- **Shipped 3D viewer.** The browser bundle used by the live scene changed in `assets/rig3d.bundle.js`.
+
 ## 2026-11-22 21:31 UTC · Public site update
 
 <!-- loona-update:5b3c938e-0c16-405b-83b1-f6470ea351e8 -->
