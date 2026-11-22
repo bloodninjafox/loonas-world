@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-22 18:43 UTC · Public site update
+
+<!-- loona-update:6ba48743-5aae-4f21-b17d-70d747d27a8b -->
+
+- **Character renderer.** Rig loading, posing, and character movement changed in `rig3d.js` (18 lines added, 5 removed or replaced).
+- **Shipped 3D viewer.** The browser bundle used by the live scene changed in `assets/rig3d.bundle.js`.
+
 ## 2026-11-22 18:42 UTC · Public site update
 
 <!-- loona-update:a17be79a-dce0-4842-b403-c49780684e17 -->
