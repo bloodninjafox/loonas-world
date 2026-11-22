@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-22 17:19 UTC · Public site update
+
+<!-- loona-update:db7b6fd3-2d2f-4dcf-8298-a0f59c2458b4 -->
+
+- **3D environments.** Changes touch in-world prop rendering, scene animation and framing in `world-stage.js` (128 lines added, 9 removed or replaced).
+- **Character renderer.** Rig loading, posing, and character movement changed in `rig3d.js` (7 lines added, 2 removed or replaced).
+- **Shipped 3D viewer.** The browser bundle used by the live scene changed in `assets/rig3d.bundle.js`.
+
 ## 2026-11-22 17:17 UTC · Public site update
 
 <!-- loona-update:f0ce4a56-e682-4259-98d4-7c8cd3f3cc27 -->
