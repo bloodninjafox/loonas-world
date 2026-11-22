@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-22 23:29 UTC · Public site update
+
+<!-- loona-update:795ce4a3-7191-46cf-8a94-acb08bed0703 -->
+
+- **Locations and travel.** The room catalog, activity descriptions, and walking routes changed in `world-data.cjs` (29 lines added, 3 removed or replaced).
+
 ## 2026-11-22 22:21 UTC · Public site update
 
 <!-- loona-update:75859a8b-edd7-4c31-a82a-4b8b3661d3b3 -->
