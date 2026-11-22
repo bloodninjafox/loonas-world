@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-22 22:21 UTC · Public site update
+
+<!-- loona-update:75859a8b-edd7-4c31-a82a-4b8b3661d3b3 -->
+
+- **Live world and camera controls.** World clock, location labels, activity feed, and camera behavior changed in `world-view.js` (5 lines added, 1 removed or replaced).
+
 ## 2026-11-22 22:16 UTC · Public site update
 
 <!-- loona-update:6c905bf5-f802-4d75-8702-5c7b5bbeca6a -->
