@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-24 23:09 UTC · Public site update
+
+<!-- loona-update:cb920ffd-df68-4e42-867a-712996cc1b59 -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Hearthlamp Court.
+
 ## 2026-11-24 22:38 UTC · Public site update
 
 <!-- loona-update:d6c1cd2b-73a1-4e9b-9f7d-2686d8f50106 -->
