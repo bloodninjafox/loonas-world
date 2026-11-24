@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-24 20:20 UTC · Public site update
+
+<!-- loona-update:7b7c648e-05fd-4948-a18a-5f5b83e2dde1 -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Copper Terrace.
+
 ## 2026-11-24 19:47 UTC · Public site update
 
 <!-- loona-update:4da32e24-28f2-427d-9b74-6521682ff4d7 -->
