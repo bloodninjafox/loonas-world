@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-24 18:26 UTC · Public site update
+
+<!-- loona-update:2df8fe12-10e0-4c7e-b567-77835fc6b198 -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Ashfall Works Station.
+
 ## 2026-11-24 18:10 UTC · Public site update
 
 <!-- loona-update:1c03ebfd-4d82-4f28-abcc-649ef81fdb94 -->
