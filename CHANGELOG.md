@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-24 05:34 UTC · Public site update
+
+<!-- loona-update:c6e8b4ea-58a6-47a5-916d-387189516142 -->
+
+- **Live world and camera controls.** Changes touch camera and location labels, live scene state in `world-view.js` (47 lines added, 2 removed or replaced).
+- **Locations and travel.** The room catalog, activity descriptions, and walking routes changed in `world-data.cjs` (49 lines added, 51 removed or replaced).
+
 ## 2026-11-23 00:57 UTC · Public site update
 
 <!-- loona-update:4ad70a6a-df21-41a2-a848-07e6df17beab -->
