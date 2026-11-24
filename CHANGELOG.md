@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-24 22:38 UTC · Public site update
+
+<!-- loona-update:d6c1cd2b-73a1-4e9b-9f7d-2686d8f50106 -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Lantern Canal Station.
+
 ## 2026-11-24 22:01 UTC · Public site update
 
 <!-- loona-update:a8d1c230-3d35-4f90-9748-cdadc6a50ec1 -->
