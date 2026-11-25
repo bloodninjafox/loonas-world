@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 21:49 UTC · Public site update
+
+<!-- loona-update:c4037e8b-998e-4d0e-a952-89f2f37121d6 -->
+
+- **Movement preset.** Loona applied and verified an update at Backroom Studio.
+
 ## 2026-11-25 20:35 UTC · Public site update
 
 <!-- loona-update:66b30247-3e1b-4024-a8d1-197fcf63467c -->
