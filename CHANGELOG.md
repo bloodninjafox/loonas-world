@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 07:13 UTC · Public site update
+
+<!-- loona-update:0cdbbf79-7bcc-4c68-9d2f-dcbcbbb930af -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Ashglass Walk.
+
 ## 2026-11-25 06:40 UTC · Public site update
 
 <!-- loona-update:a878da21-01f4-498e-80d9-fa9013dea256 -->
