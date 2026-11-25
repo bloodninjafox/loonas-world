@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 08:21 UTC · Public site update
+
+<!-- loona-update:7bfafd1e-3ce9-4de0-908b-36e389d7a34e -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Solstice Row.
+
 ## 2026-11-25 07:48 UTC · Public site update
 
 <!-- loona-update:2ec5e069-6879-439f-92b6-7352013d8c6f -->
