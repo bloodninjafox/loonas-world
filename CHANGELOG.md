@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 01:59 UTC · Public site update
+
+<!-- loona-update:378d0a76-c1ff-4501-ab5f-35a4fdb37225 -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Cinderbrick Gardens.
+
 ## 2026-11-25 01:24 UTC · Public site update
 
 <!-- loona-update:536ae155-1866-4dba-a553-7bcdba8db28c -->
