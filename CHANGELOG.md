@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-25 03:17 UTC · Public site update
+
+<!-- loona-update:95b47fcc-0f60-4cad-b449-e951119487ee -->
+
+- **Live world and camera controls.** World clock, location labels, activity feed, and camera behavior changed in `world-view.js` (2 lines added, 2 removed or replaced).
+- **3D environments.** Changes touch scene animation and framing in `world-stage.js` (25 lines added, 11 removed or replaced).
+- **Locations and travel.** The room catalog, activity descriptions, and walking routes changed in `world-data.cjs` (11 lines added, 12 removed or replaced).
+- **Character renderer.** Rig loading, posing, and character movement changed in `rig3d.js` (2 lines added, 2 removed or replaced).
+- **Shipped 3D viewer.** The browser bundle used by the live scene changed in `assets/rig3d.bundle.js`.
+
 ## 2026-11-25 03:08 UTC · Public site update
 
 <!-- loona-update:749c4661-351f-4af2-95df-af3f1adec8d8 -->
