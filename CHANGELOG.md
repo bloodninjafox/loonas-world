@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 08:55 UTC · Public site update
+
+<!-- loona-update:69d8835c-ce44-4621-b8c4-ceb44a8b4dd6 -->
+
+- **Lighting or material preset.** Loona applied and verified an update at South Gate Gardens.
+
 ## 2026-11-25 08:21 UTC · Public site update
 
 <!-- loona-update:7bfafd1e-3ce9-4de0-908b-36e389d7a34e -->
