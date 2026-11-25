@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 06:40 UTC · Public site update
+
+<!-- loona-update:a878da21-01f4-498e-80d9-fa9013dea256 -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Ember Commons.
+
 ## 2026-11-25 06:15 UTC · Public site update
 
 <!-- loona-update:af6925bd-8a92-423b-96be-556859f85126 -->
