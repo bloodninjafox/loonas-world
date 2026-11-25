@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 01:24 UTC · Public site update
+
+<!-- loona-update:536ae155-1866-4dba-a553-7bcdba8db28c -->
+
+- **Lighting or material preset.** Loona applied and verified an update at Lantern Court.
+
 ## 2026-11-25 00:50 UTC · Public site update
 
 <!-- loona-update:3d1efdff-f30b-475a-9158-54a1218889dc -->
