@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 04:12 UTC · Public site update
+
+<!-- loona-update:767fb5a5-32d6-46e9-afae-f3987987bf4c -->
+
+- **Shipped 3D viewer.** The browser bundle used by the live scene changed in `assets/rig3d.bundle.js`.
+
 ## 2026-11-25 03:45 UTC · Public site update
 
 <!-- loona-update:3c829075-814e-41b2-bd64-a5a81cb743e6 -->
