@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-25 13:31 UTC · Public site update
+
+<!-- loona-update:b75147f4-317d-4420-84e1-9358ae2740ed -->
+
+- **Lighting or material preset.** Loona applied and verified an update at North Lantern Commons.
+
 ## 2026-11-25 12:58 UTC · Public site update
 
 <!-- loona-update:ed60c3d9-fcfd-4ace-86d3-6bfbbd9ee2a7 -->
